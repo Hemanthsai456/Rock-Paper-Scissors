@@ -67,7 +67,7 @@ git clone https://github.com/Hemanthsai456/Rock-Paper-Scissors.git
 
 ## 🌐 Live Demo
 
-> [Add your Netlify or GitHub Pages link here.](https://hemanth-rock-paper-scissors.netlify.app/)
+> [Live Demo Link](https://hemanth-rock-paper-scissors.netlify.app/)
 
 ---
 

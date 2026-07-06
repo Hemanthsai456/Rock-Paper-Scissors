@@ -43,7 +43,7 @@ Rock-Paper-Scissors/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Rock-Paper-Scissors.git
+git clone https://github.com/Hemanthsai456/Rock-Paper-Scissors.git
 ```
 
 2. Open the project folder.
@@ -65,15 +65,9 @@ git clone https://github.com/your-username/Rock-Paper-Scissors.git
 
 ---
 
-## 📸 Screenshot
-
-> Add a screenshot of the application here.
-
----
-
 ## 🌐 Live Demo
 
-> Add your Netlify or GitHub Pages link here.
+> [Add your Netlify or GitHub Pages link here.](https://hemanth-rock-paper-scissors.netlify.app/)
 
 ---
 
